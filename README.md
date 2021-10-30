@@ -1,1 +1,1 @@
-# EpicArcher6
+# project-C26-template
